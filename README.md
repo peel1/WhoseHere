@@ -1,5 +1,5 @@
 # WhoseHere
-OSINT, Pentesting and Property Invester Tool for gathering indepth information about post codes.
+OSINT, Pentesting and Property Invester Tool for gathering indepth information about post codes. UK only
 
 ## Usage
 The input must be full caps and be one word. Example: EC1M4NP
