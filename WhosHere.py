@@ -74,7 +74,7 @@ def HQWebsites():
     print("https://www.postcodearea.co.uk/postaltowns/{0}/{1}/".format(ReqI, Post_Code.lower()))
     print(Form.BOLD +"Postcode located in the parish of {0} in {1}".format(info['parish'], info['nhs_ha']))
     print(Form.BOLD +"Postcode is at exactly: Longitude: {0} and latitude {1}".format(info['longitude'], info['latitude']))
-    print(Form.BOLD +"List of Codes assosiated with postcode (these are for census or other lookups): {}".format(info['codes']))
+    print(Form.BOLD +"List of Codes assosiated with postcode (these are for census or other more niche lookups): {}".format(info['codes']))
 
 
 fullGDork()
