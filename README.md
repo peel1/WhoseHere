@@ -6,7 +6,6 @@ Containes a lot of codes such as: admin district, ccg, ced, nuts, parliamentary 
 ## Usage
 The input must be full caps and be one word. Example: EC1M4NP
 
-
 # Installation
 ```
 pip install requests
